@@ -1,6 +1,8 @@
 from student import student
 
 
+
+
 def crea_estudiantes(count_estudiantes):
 	count = 0
 	list_students = []
@@ -23,7 +25,12 @@ def ordena_edades(list_students):
 	print ("metodo vacio")
 
 def separa_generos(list_students):
-	print ("metodo vacio")
+	if student_gender == ("masculino"):
+            list_students[count]= name:
+                print list_students[]:
+    else: 
+            list_students[count]= name:
+                print list_students[]:
 
 def main():
 	
